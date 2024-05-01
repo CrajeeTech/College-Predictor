@@ -30,3 +30,4 @@ There are mainly two types of filters user can select and see realtime updates,
     - User can add their rank (n) and a delta (d)
     - After which they will be shown all the programs for which closing rank >= (n + d)
 ```
+# College-Predictor
